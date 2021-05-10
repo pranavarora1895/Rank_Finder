@@ -1,4 +1,4 @@
-# Rank_Finder [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Rank_Finder [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 **This tool is very helpful in educational departments. This tool takes the list of roll no./names/registration numbers and marks from excel file and calculates the rank and merit list. In just one click you can easily create a very useful rank and merit list.**
 
